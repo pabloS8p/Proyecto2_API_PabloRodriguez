@@ -17,6 +17,9 @@
 ![image](https://github.com/user-attachments/assets/fd7c7a35-fb49-4114-8fff-cfdc9d379e75)
 ## Con esta informacion uso la funcion de la extension de Rapid API, "convert to", para que me transforme la informacion que me dio la API a un archivo de Typecript y asi poder subirlo aqui al repositorio de github:
 ![image](https://github.com/user-attachments/assets/219ffd36-02c1-4ee4-b08d-51165e388608)
+## Tambien le pedi a la extension que pasara la peticion a comando para asi poder ver como era la peticion que a hecho en comando:
+![image](https://github.com/user-attachments/assets/8c78d7a0-cd7c-49e4-b51b-5fdb29b6b461)
+
 
 ## He dejado subido al repositorio tanto el archivo json convertido a Typescript puro que me respondio la API como la peticion transformado a javascript
 
