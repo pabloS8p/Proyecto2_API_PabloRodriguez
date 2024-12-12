@@ -18,6 +18,8 @@
 ## Con esta informacion uso la funcion de la extension de Rapid API, "request snippet", para que me pase la informacion que me dio la API para pasarlo a un archivo de Javascript y asi poder subirlo aqui al repositorio de github:
 ![image](https://github.com/user-attachments/assets/7deeb715-e13f-4e59-82ae-fbd69c72483d)
 
+## He dejado subido al repositorio tanto el archivo json puro que me respondio la API como el transformado a javascript
+
 # Funcinamiento y ayuda de las extensiones:
 ## Las extensiones me han ayudado bastante, sobretodo la de Rapid API, pero las demas tambien han sido utiles, por ejemplo, GitHub Copilot me ha ayudado con algunas preguntas sobre lo que estaba viendo al estar usando la API:
 ![image](https://github.com/user-attachments/assets/39ad330d-4c69-4148-8908-0a46a9067c54)
