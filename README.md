@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd7c7a35-fb49-4114-8fff-cfdc9d379e75)# Proyecto2_API
+# Proyecto2_API
 
 # Instalacion extensiones:
 ## Lo primero que he hecho asio instalar las extensiones en Visual Studio Code,  la de GitHub Copilot y EMMET:
@@ -14,5 +14,6 @@
 ## Con este nuevo proyecto creado me voy a la seccion de peticiones y voy a pedir que me busque la informacion del pokemon "Pikachu" para ello coloco el enlace a la API de pokemon y le doy a que me consiga la informacion
 ![image](https://github.com/user-attachments/assets/736de764-c4cc-461b-bc1b-f88333d170e7)
 ## Ahora la API me ha respondido con la informacion de pikachu en un archivo json.
+![image](https://github.com/user-attachments/assets/fd7c7a35-fb49-4114-8fff-cfdc9d379e75)
 ## Con esta informacion uso la funcion de la extension de Rapid API, "request snippet", para que me pase la informacion que me dio la API para pasarlo a un archivo de Javascript y asi poder subirlo aqui al repositorio de github:
 ![image](https://github.com/user-attachments/assets/7deeb715-e13f-4e59-82ae-fbd69c72483d)
