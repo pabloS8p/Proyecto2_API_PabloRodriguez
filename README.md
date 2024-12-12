@@ -15,10 +15,10 @@
 ![image](https://github.com/user-attachments/assets/736de764-c4cc-461b-bc1b-f88333d170e7)
 ## Ahora la API me ha respondido con la informacion de pikachu en un archivo json.
 ![image](https://github.com/user-attachments/assets/fd7c7a35-fb49-4114-8fff-cfdc9d379e75)
-## Con esta informacion uso la funcion de la extension de Rapid API, "request snippet", para que me pase la informacion que me dio la API para pasarlo a un archivo de Javascript y asi poder subirlo aqui al repositorio de github:
-![image](https://github.com/user-attachments/assets/7deeb715-e13f-4e59-82ae-fbd69c72483d)
+## Con esta informacion uso la funcion de la extension de Rapid API, "convert to", para que me transforme la informacion que me dio la API a un archivo de Typecript y asi poder subirlo aqui al repositorio de github:
+![image](https://github.com/user-attachments/assets/219ffd36-02c1-4ee4-b08d-51165e388608)
 
-## He dejado subido al repositorio tanto el archivo json puro que me respondio la API como el transformado a javascript
+## He dejado subido al repositorio tanto el archivo json convertido a Typescript puro que me respondio la API como la peticion transformado a javascript
 
 # Funcinamiento y ayuda de las extensiones:
 ## Las extensiones me han ayudado bastante, sobretodo la de Rapid API, pero las demas tambien han sido utiles, por ejemplo, GitHub Copilot me ha ayudado con algunas preguntas sobre lo que estaba viendo al estar usando la API:
