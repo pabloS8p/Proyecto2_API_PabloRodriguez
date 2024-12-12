@@ -17,3 +17,16 @@
 ![image](https://github.com/user-attachments/assets/fd7c7a35-fb49-4114-8fff-cfdc9d379e75)
 ## Con esta informacion uso la funcion de la extension de Rapid API, "request snippet", para que me pase la informacion que me dio la API para pasarlo a un archivo de Javascript y asi poder subirlo aqui al repositorio de github:
 ![image](https://github.com/user-attachments/assets/7deeb715-e13f-4e59-82ae-fbd69c72483d)
+
+# Funcinamiento y ayuda de las extensiones:
+## Las extensiones me han ayudado bastante, sobretodo la de Rapid API, pero las demas tambien han sido utiles, por ejemplo, GitHub Copilot me ha ayudado con algunas preguntas sobre lo que estaba viendo al estar usando la API:
+![image](https://github.com/user-attachments/assets/39ad330d-4c69-4148-8908-0a46a9067c54)
+## Despues la extension de Emmet no la use mucho ya que la extension de Rapid API hizo todo mucho mas visual y tuve que usar menos código pero esta a venido bien para hacer html y CSS sobretodo este ultimo, ya que facilita muchas cosas como modificar tamaño, color, posicionamiento de la web de uan forma visual y mas clara que utilizando solo código.
+![image](https://github.com/user-attachments/assets/25cabec5-5093-4edb-b18b-b7db5401d3ec)
+## Por ejemplo, con ese comando emmet ordena el código que hayamos escrito para dejarlo mas leible, lo que nos puede ser util para manejar toda la informacion que nos da una API al pedirle algo.
+
+# La api elegida:
+## La api que he elegido se llama PokeAPI, esta es una API basada en la franquicia de videojuegos pokemon, el funcionamiento de esta es que tu le pides algo como un pokemon, un objeto, etc y esta api te responde con un archivo json con toda la informacion necesaria que le has pedido
+
+# En conclusion:
+## Diria que las herramientas que use, sobretodo RAPID API que hace la conexion con una API mucho mas facil, me han facilitado mucho el trabajo comparada con como lo tendria que haber hecho sin las herramientas, ya que con la interfaz gráfica es mucho mas facil que a solo código
